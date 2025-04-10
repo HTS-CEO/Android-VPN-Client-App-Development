@@ -15,7 +15,7 @@ A Flutter project built to deliver an engaging and intuitive user experience, ta
 |-------------|
 | ![Home Screenshot](app/Screenshot (112).png) |
 
-> Make sure the screenshot is located at `app/screenshots/home_screen.png` in your project directory.
+
 
 ## Getting Started
 
